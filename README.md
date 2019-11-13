@@ -1,2 +1,1 @@
 Zagster-Client
-DATA VISUAL
